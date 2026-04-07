@@ -1,5 +1,7 @@
+1.  Create a function to return student mark for a given student name.
+
 use assignment1;
-#  Create a function to return student mark for a given student name.
+
 select* from students;
 
 DELIMITER $$
